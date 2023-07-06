@@ -4,7 +4,9 @@
 }
 .test{
     color: red;
-    cursor: url['https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?w=900&t=st=1688628886~exp=1688629486~hmac=f8115df316ee7b0ae831e363660dd3fd8a3f7512ebdede2ecc5391cfc5dd7867'],auto;
+    /* cursor: url['https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?w=900&t=st=1688628886~exp=1688629486~hmac=f8115df316ee7b0ae831e363660dd3fd8a3f7512ebdede2ecc5391cfc5dd7867'],auto;
+     */
+
 
 }
 .box{
